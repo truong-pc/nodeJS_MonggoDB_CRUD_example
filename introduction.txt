@@ -1,0 +1,23 @@
+# How to Run This Project
+
+## Prerequisites
+- Node.js installed on your machine
+- MongoDB Atlas is running
+
+## Steps to Run
+
+
+2. **Install dependencies:**
+    npm install
+
+
+4. **Start the application:**
+    npm start
+
+5. **Access the application:**
+    Open your browser and navigate to `http://localhost:3000`
+
+
+Make sure MongoDB is running before starting the application.
+Replace this query by your url monggoDB server in api.js file
+const query = 'mongodb+srv://pctytn:1234567890@cluster0.ffjwq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
